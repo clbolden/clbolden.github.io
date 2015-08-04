@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Portfolio</title>
+            <link rel="Stylesheet" href="StyleSheet.css">
+      <style> body { 
+              border: solid 8px;
+              } 
+    </style>
+
+    </head>
+    <body>
+        <!--Site navigation menu -->
+
+<ul id="nav">
+    <li><a href="ContactMe.html">Contact Me</a>
+    <li><a href="index.html">Home page</a>
+    <li><a href="Resume.html">Resume</a>
+    <li><a href="Portfolio.html">Portfolio</a>
+</ul>
+<br>
+<!-- Main content -->
+        <DIV style="margin-right:150px; border-style:double">
+        <div id="AlertDiv"><h1>CHRISTINA L. BOLDEN</h1></div>
+        <br>
+        <h1>Examples of my work</h1>
+        <li><a href="http://christinabolden.weebly.com/"></li>Here is a link to a web site I designed</a>
+        <br>
+        <br>
+        <P>
+        <h2>Sharepoint 2010 company intranet site I maintained</h2>
+        <img src="/images/i2.JPG" alt="Sharepoint 2010 site" style="width: auto;height: 230px;">
+		<br>
+		<li><a href="https://drive.google.com/open?id=0B9NW-Yoq5hBva3ZxU1VnM1lobDg"></li>Here you can view from Google Drive</a>
+        <P>
+        <h3>Sharepoint 2010 IT site I developed and maintained</h3>
+        <img src="/images/i2-it.JPG" alt="Sharepoint 2010 IT site" style="width: auto;height: 230px;">
+		<br>
+		<li><a href="https://drive.google.com/open?id=0B9NW-Yoq5hBvUk9kNTl2ZlFMc2M"></li>Here you can view from Google Drive</a>
+        <h4>Sharepoint 2010 IT Services site I developed and maintained</h4>
+        <img src="/images/IT-Services.JPG" alt="Sharepoint 2010 IT Services site" style="width: auto;height: 230px;">
+		<br>
+		<li><a href="https://drive.google.com/open?id=0B9NW-Yoq5hBvQlptU2JVYW56a3c"></li>Here you can view from Google Drive</a>
+		<br>
+    </body>
+</html>
+
